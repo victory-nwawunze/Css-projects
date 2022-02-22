@@ -2,7 +2,7 @@
 
 body{
     font-family: 'Raleway', 'sans-serif';
-    line-height: 2.3em;
+    line-height: 2.5em;
     font-weight: 900;
     background-image: url('../images/bg-image.jpeg');
 }
@@ -33,9 +33,12 @@ li a:hover {
     background-color: #111;
 }
 .our-content{
+      font-family: 'Raleway','sans-serif';
     max-width: 600px;
      padding-top: 20px;
     margin: auto;
+    line-height: 2.5em;
+    font-weight: 900;
 }
 .active {
     background-color: orange;
