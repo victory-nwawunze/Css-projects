@@ -2,9 +2,6 @@
 
 body{
     font-family: 'Raleway', 'sans-serif';
-    max-width: 600px;
-    margin: auto;
-    padding-top: 20px;
     line-height: 2.3em;
     font-weight: 900;
     background-image: url('../images/bg-image.jpeg');
@@ -34,4 +31,9 @@ li a {
 /* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #111;
+}
+.our-content{
+    max-width: 600px;
+     padding-top: 20px;
+    margin: auto;
 }
