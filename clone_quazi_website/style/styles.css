@@ -5,6 +5,8 @@ body{
     max-width: 600px;
     margin: auto;
     padding-top: 20px;
+    line-height: 2.3em;
+    font-weight: 900;
 }
 /* .our-content{
     font-family: 'Raleway', 'san-serif';
